@@ -1,0 +1,79 @@
+.header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgba(35,35,35,0.95);
+    background-image: none !important;
+}
+
+.header {
+    padding: 5px 20px;
+}
+
+.header {
+    min-height: 50px;
+}
+
+.header {
+    position: fixed;
+    z-index: 12;
+    overflow: hidden;
+    width: 100%;
+    box-sizing: border-box;
+    transition: all 250ms ease;
+}
+
+.container {
+    margin: 0 auto;
+    box-sizing: border-box;
+    overflow: hidden;
+    max-height: 80px;
+    width: 100%;
+    display: table;
+}
+
+.logo {
+    display: table-cell;
+    overflow-y: hidden;
+    margin-right: 30px;
+    padding: 0;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+.site-logo {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.header .logo a{
+    display: block;
+    margin-right: 30px;
+    margin-left: 10px;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal
+
+}
+
+a {
+    text-decoration: none;
+}
+
+
+#title {
+    display: block;
+    max-width: 400px;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 14px !important;
+    font-family: "Actor" !important;
+    color: #d5d5d5 !important;
+    font-style: normal !important;
+    text-transform: none !important;
+
+}
+
