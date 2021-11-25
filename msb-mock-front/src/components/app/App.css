@@ -1,0 +1,38 @@
+#app {
+    padding-top: 60px;
+    width: 100%;
+    background: #ffffff;
+    text-align: left;
+}
+
+.app-background {
+    height: 400px;
+}
+
+#app .container {
+    width: 1300px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 50px 25px;
+}
+
+#app-content {
+    color: #4a4a4a;
+    box-sizing: border-box;
+}
+
+#app-content-header {
+    color: #ffffff;
+    position: static;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+#app-content-header .container {
+    padding: 0 12px;
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    box-sizing: inherit;
+}
